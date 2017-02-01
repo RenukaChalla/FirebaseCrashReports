@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "70956687248",
+    "firebase_url": "https://fir-crashreports-f10eb.firebaseio.com",
+    "project_id": "fir-crashreports-f10eb",
+    "storage_bucket": "fir-crashreports-f10eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70956687248:android:5bef20af5915d0ee",
+        "android_client_info": {
+          "package_name": "com.example.renukachalla.firebasecrashreports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70956687248-c4v1r4fle8g1dp5nsoc7ol80t0020t3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCga_6p-53u9x96jDZx1dcEEEZpW_Q-Pg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70956687248-c4v1r4fle8g1dp5nsoc7ol80t0020t3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
